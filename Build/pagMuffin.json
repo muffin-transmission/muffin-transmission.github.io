@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "pagMuffin.data.unityweb",
+"asmCodeUrl": "pagMuffin.asm.code.unityweb",
+"asmMemoryUrl": "pagMuffin.asm.memory.unityweb",
+"asmFrameworkUrl": "pagMuffin.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
